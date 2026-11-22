@@ -4,7 +4,7 @@ A responsive product landing page built with Next.js, TypeScript, Tailwind CSS, 
 
 ## Live Demo
 
-- **Production:** [e-combo-landing-page.vercel.app](https://e-combo-landing-page.vercel.app)
+- **Production:** [ecombo](https://ecombo.co/ar)
 
 ## Local Development
 
